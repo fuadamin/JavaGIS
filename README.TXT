@@ -4,7 +4,7 @@ note shouls contain lib folder in same location
 
 Instruction for the .exe file:
 
-1. double click on GIs .exe file and run the application
+1. double click on GIS .exe file and run the application
 Note: lib file should be in same folder
 
 Instruction for Netbeans .ZIP project file
